@@ -23,3 +23,5 @@ DerivedData
 *.xcuserdatad
 # CocoaPods
 Pods/
+
+UserInterfaceState.xcuserstate
