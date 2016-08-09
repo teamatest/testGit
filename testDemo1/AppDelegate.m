@@ -20,6 +20,9 @@
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
+    
+    NSLog(@"app active");
+    
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
