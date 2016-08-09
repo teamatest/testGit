@@ -23,6 +23,8 @@
     
     NSLog(@"app active");
     
+    NSLog(@"yufei dev");
+    
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
